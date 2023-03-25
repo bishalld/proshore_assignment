@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "745820491418",
+    "project_id": "meroshopping-70b28",
+    "storage_bucket": "meroshopping-70b28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745820491418:android:dc05d51690c1c5a1dfd923",
+        "android_client_info": {
+          "package_name": "com.meroshopping.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745820491418-99ucq3k7vqg3d4en52tbc415gojd2spk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meroshopping.app",
+            "certificate_hash": "fbde814f318ad6b999f6f09718314f1671e81143"
+          }
+        },
+        {
+          "client_id": "745820491418-3oh4q38eedjbkapj1vnt5stalf5a4ck1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8F5bvR_suxK7ooWecmH8QjAYnpes6_ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745820491418-3oh4q38eedjbkapj1vnt5stalf5a4ck1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
